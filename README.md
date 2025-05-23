@@ -331,4 +331,9 @@ If you encounter any issues or have questions:
 
 ---
 
-Built with ❤️ for productivity enthusiasts
+## Result
+<img width="1470" alt="Screenshot 2025-05-23 at 9 02 12 AM" src="https://github.com/user-attachments/assets/bf846b72-9c75-4dba-8402-96599c371e55" />
+
+<img width="1470" alt="Screenshot 2025-05-23 at 9 02 19 AM" src="https://github.com/user-attachments/assets/9b0f4842-77d4-4061-9c39-7956170860a9" />
+
+
